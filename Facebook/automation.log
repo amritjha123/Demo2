@@ -1,0 +1,58 @@
+09/27/2020 07:41:29 PM - LoginPage - INFO: Element not found with locator: //input[@name='email'] and  locatorType: id
+09/27/2020 07:41:29 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='email'] locatorType: id
+09/27/2020 07:41:43 PM - LoginPage - INFO: Element not found with locator: //input[@name='pass'] and  locatorType: id
+09/27/2020 07:41:43 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@name='pass'] locatorType: id
+09/27/2020 07:41:44 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/27/2020 07:41:48 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/27/2020 07:52:28 PM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/27/2020 07:52:29 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/27/2020 07:52:29 PM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/27/2020 07:52:29 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/27/2020 07:52:29 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/27/2020 07:52:34 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/27/2020 07:58:13 PM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/27/2020 07:58:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/27/2020 07:58:13 PM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/27/2020 07:58:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/27/2020 07:58:14 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/27/2020 07:58:32 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/27/2020 08:32:09 PM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/27/2020 08:32:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/27/2020 08:32:09 PM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/27/2020 08:32:10 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/27/2020 08:32:10 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/27/2020 08:32:11 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/27/2020 08:32:16 PM - LoginPage - INFO: Element found with locator: //span[@class='_1vp5'] and  locatorType: xpath
+09/27/2020 08:32:16 PM - LoginPage - INFO: Element Found
+09/29/2020 08:52:45 PM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/29/2020 08:52:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/29/2020 08:52:45 PM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/29/2020 08:52:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/29/2020 08:52:45 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/29/2020 08:52:51 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/29/2020 08:53:01 PM - LoginPage - INFO: Element not found with locator: //div[@class='_9ay7'] and  locatorType: xpath
+09/29/2020 08:53:01 PM - LoginPage - INFO: Element not found
+09/29/2020 08:53:42 PM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/29/2020 08:53:42 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/29/2020 08:53:42 PM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/29/2020 08:53:42 PM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/29/2020 08:53:42 PM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/29/2020 08:54:21 PM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/29/2020 08:54:21 PM - LoginPage - INFO: Element found with locator: //span[@class='_1vp5'] and  locatorType: xpath
+09/29/2020 08:54:21 PM - LoginPage - INFO: Element Found
+09/30/2020 11:54:42 AM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/30/2020 11:54:43 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/30/2020 11:54:44 AM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/30/2020 11:54:44 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/30/2020 11:54:44 AM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/30/2020 11:54:45 AM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/30/2020 11:54:49 AM - LoginPage - INFO: Element found with locator: //div[@class='_9ay7'] and  locatorType: xpath
+09/30/2020 11:54:49 AM - LoginPage - INFO: Element Found
+09/30/2020 11:55:26 AM - LoginPage - INFO: Element found with locator: //input[@name='email'] and  locatorType: xpath
+09/30/2020 11:55:26 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='email'] locatorType: xpath
+09/30/2020 11:55:26 AM - LoginPage - INFO: Element found with locator: //input[@name='pass'] and  locatorType: xpath
+09/30/2020 11:55:26 AM - LoginPage - INFO: Sent data on element with locator: //input[@name='pass'] locatorType: xpath
+09/30/2020 11:55:26 AM - LoginPage - INFO: Element found with locator: //button[@name='login'] and  locatorType: xpath
+09/30/2020 11:55:43 AM - LoginPage - INFO: Clicked on element with locator: //button[@name='login'] locatorType: xpath
+09/30/2020 11:55:44 AM - LoginPage - INFO: Element found with locator: //span[@class='_1vp5'] and  locatorType: xpath
+09/30/2020 11:55:44 AM - LoginPage - INFO: Element Found
